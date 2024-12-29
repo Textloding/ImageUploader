@@ -5,6 +5,10 @@
 <a name="english"></a>
 ## 🌟 Image Upload Service
 
+![img.png](img.png)
+
+## 🌟 Image Upload Service
+
 A secure, efficient, and feature-rich image upload service with optional content moderation capabilities.
 
 ### ✨ Key Features
@@ -168,7 +172,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 ### 视频教程
-[20241229_101447.mp4](20241229_101447.mp4)
+[点击查看](http://img.oneself.icu/20241229_101447.mp4)
 
 ### 🔧 配置选项
 
