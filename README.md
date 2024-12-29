@@ -104,6 +104,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <a name="中文说明"></a>
+## 🌟 页面预览
+
+![img.png](img.png)
+
+
 ## 🌟 图片上传服务
 
 一个安全、高效、功能丰富的图片上传服务，支持可选的内容审核功能。
@@ -161,6 +166,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 就这么简单！您的图片上传服务已经可以使用了。
 
+
+### 视频教程
+[20241229_101447.mp4](20241229_101447.mp4)
+
 ### 🔧 配置选项
 
 #### 基础配置
@@ -207,3 +216,4 @@ return [
 ### 📄 开源协议
 
 本项目采用 MIT 协议 - 详见 LICENSE 文件
+
